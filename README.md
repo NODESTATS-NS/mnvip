@@ -3,7 +3,7 @@ MNVIP Standard wallet repository
 
 ### Coin Specs
 
-- PoW Algorithm: K11
+- PoW Algorithm: K11vs
 - Premine:  0 
 - PoW Blocks: 1 - 500
 - PoS Blocks: Starting from 501
