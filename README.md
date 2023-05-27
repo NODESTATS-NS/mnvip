@@ -7,6 +7,7 @@ MNVIP Standard wallet repository
 - Premine:  0 
 - PoW Blocks: 1 - 500
 - PoS Blocks: Starting from 501
+- MAX Supply: 17 000 000 MNVIP
 - Block Time: 120 Seconds
 - Maturity: 10 Confirmations
 - Prefix: MNVIP adresses start with the capital letter "M"
