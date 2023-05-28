@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=mnvip 
+Comment=mnvip P2P Cryptocurrency
+Comment[fr]=mnvip, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=mnvip, eşten eşe kriptografik sanal para birimi
+Exec=mnvip-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/mnvip;
+Categories=Office;Finance;
+StartupWMClass=mnvip-qt

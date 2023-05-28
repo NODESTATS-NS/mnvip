@@ -1,0 +1,11 @@
+[Protocol]
+exec=mnvip-qt '%u'
+protocol=mnvip
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
