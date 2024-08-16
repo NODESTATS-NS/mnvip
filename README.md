@@ -15,9 +15,9 @@ MNVIP Standard wallet repository
 - MN-Reward: 90%
 - Staking - Rewards: 10% 
 
-- Explorer http://explorer.masternode.vip
+- Explorer http://94.250.203.31/
 
-- Website https://masternode.vip
+- Website https://nodestats.info/mnvip/
 
 ### Rewards Breakdown
 |Block   |Block End|Block Reward
